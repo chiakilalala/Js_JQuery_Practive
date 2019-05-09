@@ -1,0 +1,21 @@
+
+*{
+	margin:0;
+	padding:0;
+}
+
+body{
+	text-align:center;
+	background-color:#F5F5F5;
+	margin-top:20px;
+}
+
+#BOX{
+	text-align:center;
+	width:920px;
+	margin:0 auto;
+}
+
+#BOX img{
+	cursor:pointer;
+}
